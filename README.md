@@ -1,0 +1,1 @@
+# transition-roulette-effect-in-a-scrollview---SwiftUI
